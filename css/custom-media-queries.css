@@ -1,0 +1,156 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+	/*==========  Mobile First Method  ==========*/
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+		.hero-buttons a.btn.solid {
+    		margin-left: 0px;
+    		margin-top:15px;
+		}
+
+		.btn.btn-primary {
+    		margin-right: 80px;
+		}
+
+		#back-to-top.affix {
+			right:-55px;
+			bottom: 135px;
+		}
+
+
+		#about.contact .img-responsive {
+			margin: 0 auto;
+			padding: 0 25px;
+		}
+
+		#about.contact p{
+			padding: 25px 50px;
+		}
+}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+		.hero-buttons a.btn.solid {
+			margin-top: 0px;
+    		margin-left: 15px;
+		}
+		
+		.btn.btn-primary {
+    		margin-right: 0px;
+		}
+
+		#back-to-top.affix {
+			right: 70px;
+			bottom: 25px;
+		}
+
+		#about.contact .img-responsive {
+			margin: 0 auto;
+		}
+
+		#about.contact p{
+			padding: 25px 50px;
+		}
+
+		.services ul{
+			margin-left: 25%;
+		}
+
+
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+		.hero-buttons a.btn.solid {
+    		margin-top: 0px;
+		}
+	
+		#about.contact .img-responsive {
+			margin: 0 auto;
+		}
+
+		#about.contact p{
+			padding: 25px 50px;
+		}
+
+		.services ul{
+			margin: 0;
+		}
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+		.hero-buttons a.btn.solid {
+    		margin-top: 0px;
+		}
+	
+		#about.contact .img-responsive {
+			padding: 0 0 0 25px;
+
+		}
+
+		#about.contact p{
+			padding: 0 20px 25px 5px;
+		}
+
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+		.hero-buttons a.btn.solid {
+    		margin-top: 0px;
+		}
+	
+
+		#about.contact .img-responsive {
+			padding: 0 0 0 25px;
+
+		}
+
+		#about.contact p{
+			padding: 0 50px 25px 5px;
+		}
+
+
+	}
+
+
+
+
+
+
+	/*==========  Non-Mobile First Method  ==========*/
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (max-width : 1200px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (max-width : 992px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (max-width : 768px) {
+
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (max-width : 480px) {
+
+	}
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (max-width : 320px) {
+		
+	}
