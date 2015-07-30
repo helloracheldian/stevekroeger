@@ -170,17 +170,6 @@ ul.navbar-nav > li.active > a{
 }
 
 
-/* Portfolio
-================================================== */
-
-.isotope-nav ul li a{
-	border: 1px solid #ee3b24;
-}
-
-.isotope-nav ul a.active, 
-.isotope-nav ul a:hover{
-	background: #ee3b24;
-}
 
 /* About us
 ================================================== */
@@ -203,15 +192,6 @@ ul.navbar-nav > li.active > a{
 	border-left-color: #ee3b24;
 }
 
-/* Pricing table
-================================================== */
-
-.plan.featured .plan-price{
-	background: #ee3b24;
-}
-.plan.featured .plan-price:after{
-	border-top-color: #ee3b24;
-}
 
 /* Testimonial
 ================================================== */
@@ -256,34 +236,7 @@ ul.navbar-nav > li.active > a{
 	background: #ee3b24;
 }
 
-/* Blog Item page
-================================================== */
 
-.post-meta a:hover{
-	color: #ee3b24;
-}
-
-.author-url span a:hover{
-	color: #ee3b24;
-}
-
-.comments-counter a:hover{
-	color: #ee3b24;
-}
-
-.comments-list .comment-reply:hover{
-	color: #ee3b24;
-}
-
-/*-- Blog sidebar --*/
-
-.widget-tab h4.entry-title a:hover{
-	color: #ee3b24;
-}
-
-.widget-tags ul > li a:hover{
-	background: #ee3b24;
-}
 
 /* Landing page
 ================================================== */
