@@ -1,7 +1,7 @@
 <?php
 
 //Add your information here
-$recipient = "yourmail@domain.com";
+$recipient = "hello@racheldian.com";
 $successPage = "index.html";
 
 //Don't edit anything below this line

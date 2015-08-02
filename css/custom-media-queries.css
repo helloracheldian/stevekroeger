@@ -19,8 +19,7 @@
 		}
 
 		#back-to-top.affix {
-			right:-55px;
-			bottom: 135px;
+			right: -40px;
 		}
 
 
@@ -31,6 +30,10 @@
 
 		#about.contact p{
 			padding: 25px 50px;
+		}
+
+		.navbar-brand {
+			padding-top: 15px;
 		}
 }
 
@@ -62,7 +65,10 @@
 			margin-left: 25%;
 		}
 
-
+		.navbar-brand {
+			padding-top: 3px;
+    		width: 250px;
+		}
 
 	}
 

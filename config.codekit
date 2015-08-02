@@ -305,7 +305,7 @@
 		"outputAbbreviatedPath": "\/images\/clients\/bbb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/clients\/client1.png": {
 		"fileType": 32768,
@@ -316,7 +316,7 @@
 		"outputAbbreviatedPath": "\/images\/clients\/client1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/clients\/client2.png": {
 		"fileType": 32768,
@@ -404,7 +404,7 @@
 		"outputAbbreviatedPath": "\/images\/clients\/dva.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/clients\/pabc.png": {
 		"fileType": 32768,
@@ -415,7 +415,7 @@
 		"outputAbbreviatedPath": "\/images\/clients\/pabc.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/clients\/wsbc.png": {
 		"fileType": 32768,
@@ -426,7 +426,7 @@
 		"outputAbbreviatedPath": "\/images\/clients\/wsbc.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/clients_bg.jpg": {
 		"fileType": 16384,
@@ -450,6 +450,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/goose.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55180,
+		"inputAbbreviatedPath": "\/images\/goose.jpg",
+		"outputAbbreviatedPath": "\/images\/goose.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/landing\/hero-image.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -457,17 +468,6 @@
 		"initialSize": 31871,
 		"inputAbbreviatedPath": "\/images\/landing\/hero-image.png",
 		"outputAbbreviatedPath": "\/images\/landing\/hero-image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/landing\/main-bg.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 769008,
-		"inputAbbreviatedPath": "\/images\/landing\/main-bg.jpg",
-		"outputAbbreviatedPath": "\/images\/landing\/main-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -560,6 +560,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7060,
+		"inputAbbreviatedPath": "\/images\/logo1.png",
+		"outputAbbreviatedPath": "\/images\/logo1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9498,
+		"inputAbbreviatedPath": "\/images\/logo2.png",
+		"outputAbbreviatedPath": "\/images\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8883,
+		"inputAbbreviatedPath": "\/images\/logo3.png",
+		"outputAbbreviatedPath": "\/images\/logo3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/marker.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -586,7 +619,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 34843,
+		"initialSize": 428706,
 		"inputAbbreviatedPath": "\/images\/parallax\/parallax1.jpg",
 		"outputAbbreviatedPath": "\/images\/parallax\/parallax1.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -597,7 +630,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 34968,
+		"initialSize": 545929,
 		"inputAbbreviatedPath": "\/images\/parallax\/parallax2.jpg",
 		"outputAbbreviatedPath": "\/images\/parallax\/parallax2.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -613,7 +646,7 @@
 		"outputAbbreviatedPath": "\/images\/parallax\/parallax3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/parallax\/parallax4.jpg": {
 		"fileType": 16384,
@@ -624,7 +657,7 @@
 		"outputAbbreviatedPath": "\/images\/parallax\/parallax4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/pattern1.png": {
 		"fileType": 32768,

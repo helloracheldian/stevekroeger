@@ -409,7 +409,7 @@ blockquote {
 	font-family: 'Lora', serif;
 	margin-bottom: 30px;
 	font-weight: 300;
-	/*font-style: italic;*/
+	font-style: italic;
 }
 
 .parallax1{
@@ -1610,8 +1610,8 @@ figure.effect-oscar:hover img {
 }
 
 .testimonial-slide .testimonial-text{
-	font-size: 19px;
-	line-height: 26px;
+	font-size: 16px;
+	line-height: 24px;
 	max-width: 800px;
 	padding-top: 30px;
 	display: inline-block;
