@@ -2,7 +2,7 @@
 
 //Add your information here
 $recipient = "hello@racheldian.com";
-$successPage = "index.html";
+$successPage = "success.html";
 
 //Don't edit anything below this line
 
