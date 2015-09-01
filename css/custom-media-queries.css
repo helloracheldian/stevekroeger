@@ -9,6 +9,13 @@
 
 	/* Custom, iPhone Retina */ 
 	@media only screen and (min-width : 320px) {
+		
+		.hero-description {
+			font-size: 16px;
+			line-height: 25px;
+			letter-spacing: 0.02em;
+		}
+
 		.hero-buttons a.btn.solid {
     		margin-left: 0px;
     		margin-top:15px;
@@ -32,13 +39,44 @@
 			padding: 25px 50px;
 		}
 
+		.landing-tab .tab-pane i.big {
+			font-size: 100px;
+		}
+
 		.navbar-brand {
 			padding-top: 15px;
 		}
+
+		.hero-section {
+    		background-size: 600%;
+    		background-position: bottom center;
+		}
+
+		.parallax1 {
+    		background-size: 600% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax2 {
+    		background-size: 900% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax3 {
+    		background-size: 600% auto;
+    		background-position: center center;
+		}
+
 }
 
 	/* Extra Small Devices, Phones */ 
 	@media only screen and (min-width : 480px) {
+
+		.hero-description {
+			font-size: 20px;
+			line-height: 30px;
+		}
+
 		.hero-buttons a.btn.solid {
 			margin-top: 0px;
     		margin-left: 15px;
@@ -62,18 +100,48 @@
 		}
 
 		.services ul{
-			margin-left: 25%;
+			margin-left: 15%;
+		}
+
+		.landing-tab .tab-pane i.big {
+			font-size: 70px;
 		}
 
 		.navbar-brand {
 			padding-top: 3px;
     		width: 250px;
 		}
+		
+		.hero-section {
+    		background-size: 500% auto;
+    		background-position: bottom center;
+		}
+
+		.parallax1 {
+    		background-size: 400% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax2 {
+    		background-size: 650% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax3 {
+    		background-size: 400% auto;
+    		background-position: right bottom;
+		}
 
 	}
 
 	/* Small Devices, Tablets */
 	@media only screen and (min-width : 768px) {
+
+		.hero-description {
+			font-size: 18px;
+			line-height: 29px;
+		}
+
 		.hero-buttons a.btn.solid {
     		margin-top: 0px;
 		}
@@ -90,10 +158,44 @@
 			margin: 0;
 		}
 
+		.tab-content {
+			margin-left: -40px;
+		}
+
+		.landing-tab .tab-pane i.big {
+			font-size: 70px;
+		}
+
+		.hero-section {
+    		background-position: bottom center;
+    		background-size: 260% auto;
+		}
+
+		.parallax1 {
+    		background-size: 300% auto;
+    		background-position: center bottom;
+		}		
+
+		.parallax2 {
+    		background-size: 400% auto;
+    		background-position: center bottom;
+		}		
+
+		.parallax3 {
+    		background-size: 300% auto;
+    		background-position: right bottom;
+		}
+
 	}
 
 	/* Medium Devices, Desktops */
 	@media only screen and (min-width : 992px) {
+
+		.hero-description {
+			font-size: 20px;
+			line-height: 29px;
+		}
+
 		.hero-buttons a.btn.solid {
     		margin-top: 0px;
 		}
@@ -106,7 +208,30 @@
 		#about.contact p{
 			padding: 0 20px 25px 5px;
 		}
+		
+		.landing-tab .tab-pane i.big {
+			font-size: 110px;
+		}		
 
+		.hero-section {
+    		background-position: center center;
+    		background-size: 250% auto;
+		}
+
+		.parallax1 {
+    		background-size: 200% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax2 {
+    		background-size: 300% auto;
+    		background-position: center bottom;
+		}
+
+		.parallax3 {
+    		background-size: 200% auto;
+    		background-position: right bottom;
+		}	
 
 	}
 
@@ -127,36 +252,25 @@
 		}
 
 
-	}
+		.hero-section {
+    		background-position: center bottom;
+    		background-size: 170% auto;
+		}
 
+		.parallax1 {
+    		background-size: 160% auto;
+    		background-position: center bottom;
+		}
 
+		.parallax2 {
+    		background-size: 250% auto;
+    		background-position: center bottom;
+		}
 
-
-
-
-	/*==========  Non-Mobile First Method  ==========*/
-
-	/* Large Devices, Wide Screens */
-	@media only screen and (max-width : 1200px) {
-
-	}
-
-	/* Medium Devices, Desktops */
-	@media only screen and (max-width : 992px) {
-
-	}
-
-	/* Small Devices, Tablets */
-	@media only screen and (max-width : 768px) {
+		.parallax3 {
+    		background-size: 140% auto;
+    		background-position: center bottom;
+		}
 
 	}
 
-	/* Extra Small Devices, Phones */ 
-	@media only screen and (max-width : 480px) {
-
-	}
-
-	/* Custom, iPhone Retina */ 
-	@media only screen and (max-width : 320px) {
-		
-	}

@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn.btn-primary {
 	font-family: 'Lato';
+	color: #fff;
 }
 
 
@@ -55,24 +56,38 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-section {
-    background-image: url("../images/parallax/parallax3.jpg");
-    background-position: left center;
+    background-image: url("../images/top.jpg");
+    background-position: center bottom;
+    background-size: 100%;
+    opacity: 0.8;
+}
+
+.custompara {
+    background-attachment: fixed !important;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    /*background-size: cover !important;*/
+    color: #fff;
+    padding: 110px 0;
+}
+
+.custompara h2 {
+	color: #fff;
 }
 
 .parallax1{
-	background: url(../images/parallax/parallax1.jpg) no-repeat;
+	background: url(../images/appointments.jpg) no-repeat;
+	opacity: 0.9;
 }
 
 .parallax2{
-	background: url(../images/parallax/parallax2.jpg) no-repeat;
+	background: url(../images/testimonials.jpg) no-repeat;
+	opacity: 0.9;
 }
 
 .parallax3{
-	background: url(../images/parallax/parallax3.jpg) no-repeat;
-}
-
-.parallax4{
-	background: url(../images/parallax/parallax4.jpg) no-repeat;
+	background: url(../images/contact.jpg) no-repeat;
+	opacity: 0.9;
 }
 
 .navbar-brand {
@@ -90,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 30px;
 	font-weight: 300;
 	font-style: italic;
+	color: #fff;
 }
 
 .title2 .title-desc{
@@ -114,6 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 .testimonial-slide .testimonial-text{
 	font-size: 18px;
 	line-height: 24px;
+	letter-spacing: 0.02em;
 	max-width: 800px;
 	padding-top: 30px;
 	display: inline-block;
@@ -151,6 +168,10 @@ h1, h2, h3, h4, h5, h6 {
 	display: block;
 }
 
+.contact-info h3 {
+    color: #fff;
+}
+
 .form-control {
     color: #fff;
     font-size: 18px;
@@ -174,11 +195,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .successback {
-	background: url(../images/landing/main-bg_1.jpg) no-repeat;
+	background: url(../images/appointments.jpg) no-repeat;
 	background-size: cover;
 		-moz-background-size: cover;
   		-o-background-size: cover;
   		-webkit-background-size: cover;
+  		background-position: top right;
     max-width: 100%;
     max-height: 100%;
     bottom: 0;
