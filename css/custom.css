@@ -7,9 +7,10 @@
 */
 
 @import url(http://fonts.googleapis.com/css?family=Cabin:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Questrial);
 
 body, p{
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Questrial', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
